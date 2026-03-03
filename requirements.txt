@@ -1,8 +1,4 @@
-os
-dotenv
 streamlit
-PyPDF2
-transformers
-openai
-langchain
+requests
 python-dotenv
+fpdf
